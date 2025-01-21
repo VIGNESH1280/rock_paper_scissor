@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1 className="title">Rock Paper Scissors</h1>
+      <h1 className="title">Rock Paper Scissors Game</h1>
       <div className="choices-container">
         {choices.map((item) => {
           return (
